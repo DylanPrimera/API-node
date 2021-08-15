@@ -1,0 +1,14 @@
+{
+  "name": "AngularAPI",
+  "version": "1.0.0",
+  "description": "Servidor API en NODE",
+  "author": "Dylan Primera",
+  "license": "DBEA",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "~3.x",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.13.7",
+    "nodemon": "^2.0.12"
+  }
+}
